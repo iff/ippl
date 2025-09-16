@@ -18,3 +18,8 @@ build*/
 # ignore .vscode directory
 .vscode
 .cache
+
+# nix
+.direnv
+result
+compile_commands.json
